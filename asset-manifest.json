@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-eshop/static/css/main.c4311b98.css",
-    "main.js": "/react-eshop/static/js/main.73fe1f77.js",
+    "main.css": "/react-eshop/static/css/main.b1334173.css",
+    "main.js": "/react-eshop/static/js/main.53083526.js",
     "static/js/787.c875205c.chunk.js": "/react-eshop/static/js/787.c875205c.chunk.js",
     "static/media/Costa.webp": "/react-eshop/static/media/Costa.14279b7ff2b446fa15c6.webp",
     "static/media/Cinepolis.webp": "/react-eshop/static/media/Cinepolis.9d911927bc2bbde8652f.webp",
@@ -12,12 +12,12 @@
     "static/media/mcd.webp": "/react-eshop/static/media/mcd.e85b08b460f2803a02ea.webp",
     "static/media/slick.woff": "/react-eshop/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/react-eshop/index.html",
-    "main.c4311b98.css.map": "/react-eshop/static/css/main.c4311b98.css.map",
-    "main.73fe1f77.js.map": "/react-eshop/static/js/main.73fe1f77.js.map",
+    "main.b1334173.css.map": "/react-eshop/static/css/main.b1334173.css.map",
+    "main.53083526.js.map": "/react-eshop/static/js/main.53083526.js.map",
     "787.c875205c.chunk.js.map": "/react-eshop/static/js/787.c875205c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4311b98.css",
-    "static/js/main.73fe1f77.js"
+    "static/css/main.b1334173.css",
+    "static/js/main.53083526.js"
   ]
 }
